@@ -8,7 +8,7 @@ Some of the questions/topics which i was asked when i was giving interviews for 
 
 Which architecture is more secure? 2 tier or 3 tier
 Explain SSL Handshake
-https://www.youtube.com/watch?v=ubHZQrECeew
+https://www.youtube.com/watch?v=ubHZQrECeew  
 https://www.cloudflare.com/learning/ssl/how-does-ssl-work/
 https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/
 Explain Encryption, Hashing, and Encoding
